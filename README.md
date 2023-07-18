@@ -5,7 +5,7 @@
 
 ## I'm a developer with a love for Typescript & C# :)
 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 🌱 I’m currently learning just about everything 🤣
 - 👯 I’m looking to collaborate more with other devs
 - ⚡ Fun fact about me: I love taking photos with my DSLRs and I play MTG
